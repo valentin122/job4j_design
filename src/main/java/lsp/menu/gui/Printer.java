@@ -4,6 +4,4 @@ import lsp.menu.model.Item;
 
 public interface Printer {
     public void printAll(Item root);
-
-//    public void printCurrent();
 }
